@@ -23,3 +23,4 @@ C:\Training\PS-Implementing Web Services\demo-web-app\demo\obj\Debug\net8.0\refi
 C:\Training\PS-Implementing Web Services\demo-web-app\demo\obj\Debug\net8.0\demo.pdb
 C:\Training\PS-Implementing Web Services\demo-web-app\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
 C:\Training\PS-Implementing Web Services\demo-web-app\demo\obj\Debug\net8.0\ref\demo.dll
+C:\Training\PS-Implementing Web Services\demo-web-app\demo\obj\Debug\net8.0\demo.sourcelink.json
